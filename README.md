@@ -7,29 +7,23 @@
 
 ## Все ключевые аспекты данных были визуализированы с помощью гистограмм, линейных графиков, столбчатых диаграмм, что позволило наглядно представить распределения и взаимосвязи показателей. Этот комплексный анализ подготовил данные для дальнейших исследований и принятия решений.
 
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
-<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico"/> </a>
+##  Ссылки на работы:
 
+## Gogle Collab
+https://colab.research.google.com/drive/1OaU5DsKZ6dYkUyllQ_opfwzzlXytY24m?usp=sharing 
+---
+---
+
+## Yandex Datalens
+https://datalens.ru/rb17jd7ftgjqb  
+---
+---
+
+
+<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="140" height="140"/></a>
+<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="130" height="130"/></a>
+<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="120" height="120"/></a>
+<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="110" height="110"/></a>
+<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="100" height="100"/></a>
+<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="90" height="90"/></a>
+<a href="https://skillicons.dev"><img src="https://raw.githubusercontent.com/pascalabcnet/pascalabcnet/refs/heads/master/VisualPascalABCNET/ABCNET32.ico" width="80" height="80"/></a>
